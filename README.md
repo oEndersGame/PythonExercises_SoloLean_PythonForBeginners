@@ -1,1 +1,1 @@
-# PythonExercises_SoloLean_PythonForBeginners
+# PythonExercises_SoloLearn_PythonForBeginners
